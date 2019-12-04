@@ -1,4 +1,5 @@
 # AngularMongoDB
+Angular8 Application for dispalying charts from MongoDB Database .
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
